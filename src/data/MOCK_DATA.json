@@ -1,0 +1,167 @@
+[{
+    "id": 1,
+    "nombre": "Nike Court",
+    "descripcion": "Zapatilla blanca muy comodas",
+    "precio": 59990,
+    "img": "../public/zapatillahombre1.jpg",
+    "stock": 10,
+    "category": "Hombre"
+  }, {
+    "id": 2,
+    "nombre": "Nike 270",
+    "descripcion": "Zapatilla Nike comodisima",
+    "precio": 89990,
+    "img": "../public/zapatillahombre2.jpg",
+    "stock": 27,
+    "category": "Hombre",
+    "talles": [
+      {
+          "value": "44",
+          "label": "44"
+      },
+      {
+          "value": "43",
+          "label": "43"
+      },
+      {
+          "value": "42",
+          "label": "42"
+      },
+      {
+          "value": "41",
+          "label": "41"
+      },
+      {
+          "value": "40",
+          "label": "40"
+      }
+  ]
+  }, {
+    "id": 3,
+    "nombre": "Nike Air force",
+    "descripcion": "Zapatilla nike expectacular",
+    "precio": 129990,
+    "img": "../public/zapatillamujer1.jpg",
+    "stock": 9,
+    "category": "Mujer",
+    "talles": [
+      {
+          "value": "40",
+          "label": "40"
+      },
+      {
+          "value": "39",
+          "label": "39"
+      },
+      {
+          "value": "38",
+          "label": "38"
+      },
+      {
+          "value": "37",
+          "label": "37"
+      },
+      {
+          "value": "36",
+          "label": "36"
+      },
+      {
+          "value": "35",
+          "label": "35"
+      }
+  ]
+  }, {
+    "id": 4,
+    "nombre": "Puma Vikky",
+    "descripcion": "Zapatilla puma",
+    "precio": 45990,
+    "img": "../public/zapatillamujer2.jpeg",
+    "stock": 8,
+    "category": "Mujer",
+    "talles": [
+      {
+          "value": "40",
+          "label": "40"
+      },
+      {
+          "value": "39",
+          "label": "39"
+      },
+      {
+          "value": "38",
+          "label": "38"
+      },
+      {
+          "value": "37",
+          "label": "37"
+      },
+      {
+          "value": "36",
+          "label": "36"
+      },
+      {
+          "value": "35",
+          "label": "35"
+      }
+  ]
+  }, {
+    "id": 5,
+    "nombre": "Bubblegummers Niño",
+    "descripcion": "Zapatillas precisas para un niño",
+    "precio": 24990,
+    "img": "../public/zapatillaniños1.jpg",
+    "stock": 15,
+    "category": "Niños",
+    "talles": [
+      {
+          "value": "34",
+          "label": "34"
+      },
+      {
+          "value": "33",
+          "label": "33"
+      },
+      {
+          "value": "32",
+          "label": "32"
+      },
+      {
+          "value": "31",
+          "label": "31"
+      },
+      {
+          "value": "30",
+          "label": "30"
+      }
+  ]
+  }, {
+    "id": 6,
+    "nombre": "Bubblegummers Niña",
+    "descripcion": "La mejor zapatillas para una niña",
+    "precio": 19990,
+    "img": "../public/zapatillaniños2.jpg",
+    "stock": 22,
+    "category": "Niños",
+    "talles": [
+      {
+          "value": "34",
+          "label": "34"
+      },
+      {
+          "value": "33",
+          "label": "33"
+      },
+      {
+          "value": "32",
+          "label": "32"
+      },
+      {
+          "value": "31",
+          "label": "31"
+      },
+      {
+          "value": "30",
+          "label": "30"
+      }
+  ]
+  }]
